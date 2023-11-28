@@ -1,7 +1,7 @@
 <?php
     $server   = "localhost";
     $username = "root";
-    $password = "";
+    $password = "developer";
     $database = "aaw_lec13_v4";
 
     try {
